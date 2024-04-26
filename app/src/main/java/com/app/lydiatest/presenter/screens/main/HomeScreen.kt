@@ -74,7 +74,6 @@ fun HomeScreen(navController: NavController, viewModel: MainViewModel) {
         ) {
 
             PullRefreshIndicator(
-                modifier = Modifier.size(50.dp),
                 refreshing = uiState.isRefreshing,
                 state = pullRefreshState
             )
