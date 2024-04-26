@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lydia Test</string>
+    <string name="app_tag">Lydia Test - Random User</string>
+    <string name="home_screen_title">Contact List</string>
+    <string name="details_screen_title">User Informations</string>
+</resources>
